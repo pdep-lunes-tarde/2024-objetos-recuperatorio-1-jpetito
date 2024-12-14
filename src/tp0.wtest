@@ -1,5 +1,0 @@
-import tp.*
-
-test "Test de ejemplo" {
-		assert.equals(4, 2 + 2)
-}
